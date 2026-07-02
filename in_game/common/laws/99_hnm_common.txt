@@ -1,0 +1,20 @@
+﻿INJECT:marriage_law = {
+	## japanese clan marriage law
+	ie_system = {
+		unique = yes
+		potential = {
+			OR = {
+				culture.language = language:japanese_language
+				court_language = language:japanese_language
+			}
+		}
+		country_modifier = {
+			female_spouses = 3
+			male_spouses = 1
+		}
+		estate_preferences = {
+			clergy_estate
+		}
+		years = 2
+	}
+}
