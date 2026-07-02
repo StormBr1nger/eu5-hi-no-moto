@@ -1,4 +1,9 @@
 ﻿l_english:
+## Succession
+ ie_succession: "House Succession"
+ ie_succession_desc: "The $ie_succession$ law places the continuity of the house above strict bloodline order. Main-line heirs are favored, but brothers, adopted successors, sons-in-law, and branch-family claimants may inherit when they best preserve the house name, estate, rank, and authority."
+
+ HEIR_SELECTION_RULER_SIBLING_DESC: "Sibling of the Current Ruler"
 ## Marrige law
  ie_system: "Ie System"
  ie_system_desc: "The $ie_system$ governs the continuity of the house through marriage, succession, adoption, and branch-family inheritance. Its purpose is to preserve the clan name, estate, rank, and authority across generations."

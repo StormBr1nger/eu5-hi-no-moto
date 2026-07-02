@@ -7,7 +7,7 @@ currency_data = {
 
 government = {
 	type = monarchy
-	heir_selection = cognatic_primogeniture
+	heir_selection = ie_succession
 
 
 	aristocracy_vs_plutocracy = -60
